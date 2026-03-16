@@ -50,6 +50,7 @@ Update the `application.yml` or `application.properties` in each microservice wi
 
 ```
 yaml
+---
 spring:
   datasource:
     url: jdbc:mysql://localhost:3306/tool_library_db
